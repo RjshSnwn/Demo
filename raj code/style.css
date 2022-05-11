@@ -1,0 +1,44 @@
+    .container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        /* background-color: beige */
+    }
+    /*     
+    .sidemenu {
+        height: 100vh;
+        width: 14%;
+        background-color: aquamarine;
+        position: fixed;
+    }
+    
+    .sidemenu ul li {
+        margin: 20px 20px 10px 20px;
+        list-style: none;
+        font-size: 20px;
+        color: white;
+        width: 60%;
+        text-decoration: none;
+    }
+    
+    .one h1 {
+        margin: 30px 20px 15px 40px;
+        list-style: none;
+        font-size: 30px;
+        color: white;
+    }
+    
+    .l1:hover {
+        cursor: pointer;
+    } */
+    
+    #loading {
+        width: 100%;
+        height: 100vh;
+        background: url(./ezgif-2-6d0b072c3d3f.gif ) no-repeat center;
+        z-index: 9999;
+    }
+    
+    #data {
+        height: auto;
+    }
